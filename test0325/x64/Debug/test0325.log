@@ -1,0 +1,3 @@
+﻿  032501.c
+E:\C语言学习\code\test0325\032501.c(14,32): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  test0325.vcxproj -> E:\C语言学习\code\test0325\x64\Debug\test0325.exe
