@@ -1,0 +1,3 @@
+﻿  01.c
+E:\C语言学习\code\exercise_if_for\01.c(90,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  exercise_if_for.vcxproj -> E:\C语言学习\code\exercise_if_for\x64\Debug\exercise_if_for.exe
