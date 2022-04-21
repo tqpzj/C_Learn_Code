@@ -1,0 +1,5 @@
+﻿  习题.c
+E:\C语言学习\code\函数1_0403\习题.c(17): warning C4715: “is_prime”: 不是所有的控件路径都返回值
+E:\C语言学习\code\函数1_0403\习题.c(25): warning C4715: “is_run”: 不是所有的控件路径都返回值
+E:\C语言学习\code\函数1_0403\习题.c(59): warning C4715: “Dichotomy”: 不是所有的控件路径都返回值
+  函数1_0403.vcxproj -> E:\C语言学习\code\函数1_0403\x64\Debug\函数1_0403.exe
